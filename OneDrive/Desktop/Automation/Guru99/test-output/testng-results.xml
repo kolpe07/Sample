@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-30T15:22:03 IST" name="Default suite" finished-at="2023-12-30T15:22:11 IST" duration-ms="7919">
+    <groups>
+    </groups>
+    <test started-at="2023-12-30T15:22:03 IST" name="Default test" finished-at="2023-12-30T15:22:11 IST" duration-ms="7919">
+      <class name="TestLayer.RegisterTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestLayer.RegisterTest@5d0a1059]" started-at="2023-12-30T15:22:03 IST" name="setup" finished-at="2023-12-30T15:22:10 IST" duration-ms="6795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateRegisterFunctionlity()[pri:0, instance:TestLayer.RegisterTest@5d0a1059]" started-at="2023-12-30T15:22:10 IST" name="validateRegisterFunctionlity" finished-at="2023-12-30T15:22:11 IST" duration-ms="1079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegisterFunctionlity -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestLayer.RegisterTest@5d0a1059]" started-at="2023-12-30T15:22:11 IST" name="tearDown" finished-at="2023-12-30T15:22:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestLayer.RegisterTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
